@@ -13,7 +13,7 @@ Research by Siami-Namini et al. (2023) highlights the efficacy of bidirectional 
 **Application Survey:-**
 Forecasting weather accurately benefits many sectors:
 
-**Agriculture: **precision irrigation and frost prevention.
+**Agriculture:** precision irrigation and frost prevention.
 
 **Energy Management:** demand forecasting and renewable integration.
 
@@ -50,7 +50,7 @@ These results validate the efficiency and applicability of BiLSTM architectures 
 **Conclusion:**
 This project illustrates the power of Bidirectional LSTM networks in capturing complex temporal dynamics in atmospheric data, leading to more accurate temperature forecasts. The model and pipeline offer a practical solution for meteorological applications while also serving as a solid foundation for expanding to multivariate or spatial weather prediction tasks.
 
-References
+**References:**
 Wang, D. et al. (2024). “BL-FC: BiLSTM for Atmospheric Temperature Prediction,” Journal of Electrical Systems.
 
 Siami-Namini, S., Tavakoli, N., & Namin, A. S. (2023). “Deep Learning for Time Series Forecasting: A Survey,” Neurocomputing.
